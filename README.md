@@ -21,3 +21,4 @@ Custom connector to use Rapid pro endpoint for FunDoo UNICEF Project.
  - (you can find API token in https://rapidpro.ilhasoft.mobi/org/home/ or https://rapidpro.ilhasoft.mobi/api/v2/explorer/
 6. Select the items you want and click transform or load data.
 
+<img width="833" alt="Screen Shot 2023-04-26 at 09 11 26" src="https://user-images.githubusercontent.com/6203857/234851703-d6526378-7987-434e-afef-946c100748b8.png">
